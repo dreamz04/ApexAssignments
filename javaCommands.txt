@@ -1,0 +1,7 @@
+Java Commands
+
+Java and JavaC commands
+
+Javac program.java --> runs the .java program to convert to a bytecode
+java program --> takes the .class files compiled using javac function to execute the program output.
+
